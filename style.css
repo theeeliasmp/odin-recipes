@@ -1,6 +1,11 @@
 body {
     background-color: rgb(128, 70, 49);
 }
+img {
+    margin: auto;
+    display: block;
+    width: 400px;
+}
 
 h1 {
     color: rgb(255, 250, 178);
@@ -8,11 +13,12 @@ h1 {
 }
 
 ul {
-    margin-left: 10%;
-    text-align: left;
+    margin: auto;
+    text-align: center;
     list-style-position: inside;
     color:rgb(255, 250, 178)
 }
+
 
 a {
     color:rgb(201, 168, 60)
